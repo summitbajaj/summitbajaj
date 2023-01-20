@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Summit!
 
+www.linkedin.com/in/summit-bajaj
+
 
 <!--
 **summitbajaj/summitbajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
