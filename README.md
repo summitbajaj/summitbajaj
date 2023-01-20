@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Summit!
 
-www.linkedin.com/in/summit-bajaj
+- 🌱 I’m looking to participate in hackathons!
+
 
 
 <!--
