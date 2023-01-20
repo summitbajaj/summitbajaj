@@ -1,9 +1,10 @@
 ### 👋 Hi, I'm Summit!
 
-#A 2nd year student in NTU REP!
 
 <!--
 **summitbajaj/summitbajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+2nd year student studying in NTU REP!
 
 Here are some ideas to get you started:
 
