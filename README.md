@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Summit!
 
-- 🌱 I’m looking to participate in hackathons!
+<!-- - 🌱 I’m looking to participate in hackathons! -->
 
 
 
