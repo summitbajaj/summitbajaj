@@ -18,7 +18,4 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=ASP.NET&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=C#&color=353535) ![Bootstrap](https://img.shields.io/badge/-PowerShell-05122A?style=flat-square&logo=PowerShell&color=353535)
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Summitbajaj&show_icons=true&locale=en&layout=compact" alt="Summitbajaj" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Summitbajaj&" alt="Summitbajaj" />
-</div>
+
