@@ -1,21 +1,25 @@
-### 👋 Hi, I'm Summit!
+<h3 align="center">Hey, I’m Summit 👋</h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSummitbajaj%2FSummitbajaj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  Student @ NTU’s Renaissance Engineering Programme · Builder of things · Always exploring
+</p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/summit-bajaj/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/summit-bajaj/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bajajsummit@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Summitbajaj">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Summitbajaj?label=Follow&style=social" />
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bajajsummit@gmail.com)
+---
 
-[![Github](https://img.shields.io/github/followers/Summitbajaj?label=Follow&style=social)](https://github.com/Summitbajaj)
+🛠 Currently tinkering with code, systems & ideas  
+🌱 Learning things that make me pause and go “whoa”  
+💬 Always happy to chat — whether it’s about tech, ideas, or just random thoughts
 
-- 💻 I'm an Renaissance Engineering Programme Student at NTU!
-- 🤔 I’m just looking to build cool stuff.
-- 🌱 Feel free to reach out for a chat!
-
-
-
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=ASP.NET&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=C#&color=353535) ![Bootstrap](https://img.shields.io/badge/-PowerShell-05122A?style=flat-square&logo=PowerShell&color=353535)
-
-
+---
